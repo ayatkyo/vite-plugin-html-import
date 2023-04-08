@@ -1,6 +1,6 @@
 {
   "name": "@ayatkyo/vite-plugin-html-import",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vite plugin for importing .html file as string",
   "type": "module",
   "main": "index.js",
@@ -17,5 +17,13 @@
   "keywords": [
     "vite",
     "vite-plugin"
-  ]
+  ],
+  "homepage": "https://github.com/ayatkyo/vite-plugin-html-import",
+  "bugs": {
+    "url": "https://github.com/ayatkyo/vite-plugin-html-import/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayatkyo/vite-plugin-html-import.git"
+  }
 }
