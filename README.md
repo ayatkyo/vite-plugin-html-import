@@ -34,7 +34,7 @@ npm i @ayatkyo/vite-plugin-html-import
 
 Make sure the `type` in the project `package.json` is set to `module`.
 
-```json
+```js
 {
   // ...
   "type": "module",
