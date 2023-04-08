@@ -1,0 +1,21 @@
+{
+  "name": "@ayatkyo/vite-plugin-html-import",
+  "version": "0.1.0",
+  "description": "Vite plugin for import .html as string",
+  "type": "module",
+  "main": "index.js",
+  "author": "Hidayatullah",
+	"license": "MIT",
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "@minify-html/node": "^0.10.8"
+  },
+  "keywords": [
+		"vite",
+		"vite-plugin"
+	]
+}
